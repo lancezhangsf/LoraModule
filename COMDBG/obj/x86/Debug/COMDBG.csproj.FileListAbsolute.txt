@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\bin\Debug\COMDBG.exe
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\bin\Debug\COMDBG.pdb
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.AboutForm.resources
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.HelpForm.resources
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.MainForm.resources
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.Properties.Resources.resources
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.exe
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.pdb

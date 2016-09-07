@@ -1,0 +1,27 @@
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\bin\Debug\COMDBG.exe
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\bin\Debug\COMDBG.pdb
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.AboutForm.resources
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.HelpForm.resources
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.MainForm.resources
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.Properties.Resources.resources
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\LoraCfg.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.exe
+C:\Users\Administrator\Desktop\COMDBG\COMDBG\obj\x86\Debug\COMDBG.pdb
+F:\LPWAN\Code\Lora透传模块Code\Unit Code\WindowsTools\LoraModule\COMDBG\obj\x86\Debug\COMDBG.exe
+F:\LPWAN\Code\Lora透传模块Code\Unit Code\WindowsTools\LoraModule\COMDBG\obj\x86\Debug\COMDBG.pdb
+F:\LPWAN\Code\Lora透传模块Code\Unit Code\WindowsTools\LoraModule\COMDBG\bin\Debug\COMDBG.exe
+F:\LPWAN\Code\Lora透传模块Code\Unit Code\WindowsTools\LoraModule\COMDBG\bin\Debug\COMDBG.pdb
+F:\LPWAN\Code\Lora透传模块Code\Unit Code\WindowsTools\LoraModule\COMDBG\obj\x86\Debug\COMDBG.AboutForm.resources
+F:\LPWAN\Code\Lora透传模块Code\Unit Code\WindowsTools\LoraModule\COMDBG\obj\x86\Debug\COMDBG.HelpForm.resources
+F:\LPWAN\Code\Lora透传模块Code\Unit Code\WindowsTools\LoraModule\COMDBG\obj\x86\Debug\COMDBG.MainForm.resources
+F:\LPWAN\Code\Lora透传模块Code\Unit Code\WindowsTools\LoraModule\COMDBG\obj\x86\Debug\COMDBG.Properties.Resources.resources
+F:\LPWAN\Code\Lora透传模块Code\Unit Code\WindowsTools\LoraModule\COMDBG\obj\x86\Debug\LoraCfg.csproj.GenerateResource.Cache
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\bin\Debug\COMDBG.exe
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\bin\Debug\COMDBG.pdb
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Debug\COMDBG.AboutForm.resources
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Debug\COMDBG.HelpForm.resources
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Debug\COMDBG.MainForm.resources
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Debug\COMDBG.Properties.Resources.resources
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Debug\LoraCfg.csproj.GenerateResource.Cache
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Debug\COMDBG.exe
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Debug\COMDBG.pdb

@@ -1,0 +1,10 @@
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\bin\Release\COMDBG.exe
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\bin\Release\COMDBG.pdb
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Release\COMDBG.AboutForm.resources
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Release\COMDBG.HelpForm.resources
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Release\COMDBG.MainForm.resources
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Release\COMDBG.Properties.Resources.resources
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Release\LoraCfg.csproj.GenerateResource.Cache
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Release\COMDBG.exe
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Release\COMDBG.pdb
+D:\WorkSpace\C#Workspace\LoraModule\COMDBG\obj\x86\Release\LoraCfg.csprojResolveAssemblyReference.cache
